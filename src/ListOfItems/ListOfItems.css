@@ -1,0 +1,18 @@
+.displayNone {
+    display: none;
+}
+.displayBlock {
+    display: block;
+}
+.liDiv {
+    border: 1px dotted;
+}
+.liDiv :hover {
+    background-color: coral;
+}
+.liDiv p:first-child {
+    margin-top: 0;
+}
+.liDiv p:last-child {
+    margin-bottom: 0;
+}
